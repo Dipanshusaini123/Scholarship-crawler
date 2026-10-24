@@ -1,0 +1,13 @@
+
+scrapy
+requests
+beautifulsoup4
+
+pypdf
+pymupdf
+
+groq
+langchain
+langchain-groq
+
+python-dotenv

@@ -1,0 +1,36 @@
+url,domain,discovered_from,page_type,reason,status
+https://www.ugc.gov.in/,www.ugc.gov.in,seed,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/,scholarships.gov.in,seed,source_page_candidate,Page visited; scholarship details not verified,visited
+https://www.ugc.gov.in/Home/student_Corner,www.ugc.gov.in,https://www.ugc.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/copyright-policy,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarship.canarabank.bank.in/,scholarship.canarabank.bank.in,https://www.ugc.gov.in/,source_page_candidate,External source candidate visited; official status not verified,visited_candidate
+https://www.ugc.gov.in/Scholarships/stu_Scholarship6,www.ugc.gov.in,https://www.ugc.gov.in/Home/student_Corner,scholarship_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/ViewMoreAnnouncement,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://www.ugc.gov.in/Scholarships/stu_Scholarship5,www.ugc.gov.in,https://www.ugc.gov.in/Home/student_Corner,scholarship_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/Fellowship,scholarships.gov.in,https://scholarships.gov.in/,scholarship_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/Institute,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://www.ugc.gov.in/Fellowship/stu_Fellowship3,www.ugc.gov.in,https://www.ugc.gov.in/Home/student_Corner,scholarship_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/officer-announcements,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://nsp.gov.in/fellowshipkyc/,nsp.gov.in,https://scholarships.gov.in/Fellowship,scholarship_page_candidate,External source candidate visited; official status not verified,visited_candidate
+https://www.ugc.gov.in/Fellowship/stu_Fellowship1,www.ugc.gov.in,https://www.ugc.gov.in/Home/student_Corner,scholarship_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/institute-announcements,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/student-announcements,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/InstituteFAQs,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/studentFAQs,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/aboutUs,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/districtNodelOfficerDetails,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/nodelOfficerDetails,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/onlineSanctionedList,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/onlineInstituteSearchIndex,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/Public,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/Fellowshipannouncementshp,scholarships.gov.in,https://scholarships.gov.in/Fellowship,scholarship_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/fellowFAQs,scholarships.gov.in,https://scholarships.gov.in/Fellowship,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/fellowship/,scholarships.gov.in,https://scholarships.gov.in/Fellowship,scholarship_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/nodalofficerList,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/Officers,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/All-Scholarships,scholarships.gov.in,https://scholarships.gov.in/,scholarship_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/ApplicationForm/,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/otrapplication/,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/Students,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/home,scholarships.gov.in,https://scholarships.gov.in/,source_page_candidate,Page visited; scholarship details not verified,visited
+https://scholarships.gov.in/scholarshipEligibility/,scholarships.gov.in,https://scholarships.gov.in/,scholarship_page_candidate,Page visited; scholarship details not verified,visited

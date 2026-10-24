@@ -1,0 +1,955 @@
+[
+  {
+    "scholarship_name": "Prime Minister'S Scholarship Scheme For Wards Of States/UTs  Police Personnel Martyred During Terror/Naxal Attacks (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/warb/PMSS_Guidelines_1197_3001-2023-24.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQonPMSSS.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Prime Minister’s Scholarship Scheme (PMSS), Ministry of Home Affairs",
+    "eligibility": [
+      "Wards/widows of deceased Central Armed Police Forces (CAPFs) & Assam Rifles personnel who died in harness/election duty",
+      "Wards of CAPFs & AR personnel disabled due to causes attributable to Government service",
+      "Wards of ex‑CAPFs & AR personnel who are recipients of Gallantry Awards",
+      "Wards/widows of retired and serving CAPFs & AR personnel (below Officer Rank) pursuing a first professional degree programme",
+      "Dependent wards of States/UTs Police personnel who are martyred during Terror/Naxal attacks pursuing a first professional degree programme",
+      "Minimum 60% marks in Minimum Entry Qualification (10+2/Diploma/Graduation or equivalent) for new applicants",
+      "Minimum 50% marks in each subsequent academic year for renewal applicants",
+      "Grace period of one year allowed for delayed renewal applications"
+    ],
+    "award_amount": "Rs 3,000 per month for girls (Rs 36,000 per year) and Rs 2,500 per month for boys (Rs 30,000 per year)",
+    "education_level": [
+      "First professional degree (undergraduate and postgraduate programmes such as MBA, MCA)"
+    ],
+    "eligible_courses": [
+      "Engineering (BE, B.Tech)",
+      "Medicine (MBBS)",
+      "Dental (BDS)",
+      "Veterinary",
+      "BBA",
+      "BCA",
+      "B Pharma",
+      "B.Sc (Nursing, Agriculture, etc.)",
+      "MBA",
+      "MCA",
+      "B.Ed."
+    ],
+    "required_documents": [
+      "Service Certificate issued by the Head Office (for serving personnel)",
+      "Attested mark sheet of Minimum Entry Qualification (10+2/Diploma/Graduation)",
+      "PPO/Discharge Certificate/Service Book (mandatory for categories A‑F)",
+      "Disability Certificate (mandatory for categories B & D)",
+      "Death Certificate (mandatory for categories A & C)",
+      "Certificate of Gallantry Award (mandatory for category E)",
+      "Bonafide certificate issued by the institute/college",
+      "Certificate from State Government indicating martyrdom of the police personnel (for States/UTs Police wards)",
+      "For renewal applicants: Service Certificate (if applicable), bonafide certificate, and attested mark sheet of the professional course pursued in the previous academic year",
+      "Aadhaar number (seeded with bank account) – mandatory for all applicants"
+    ],
+    "renewal_requirements": [
+      "Must have passed each subsequent academic year of the professional course with at least 50% marks",
+      "Grace period of one year allowed for delayed renewal submission",
+      "Upload Service Certificate (if serving), bonafide certificate, and mark sheet of the previous academic year",
+      "Maintain Aadhaar‑linked bank account; complete Aadhaar verification if not already done",
+      "No change of course/college without permission; otherwise scholarship will be cancelled"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "Prime Minister'S Scholarship Scheme For Central Armed Police Forces And Assam Rifles (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/warb/PMSS_Guidelines_1197_3001-2023-24.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQonPMSSS.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Prime Minister’s Scholarship Scheme (PMSS), Ministry of Home Affairs",
+    "eligibility": [
+      "Wards/widows of deceased Central Armed Police Forces (CAPFs) & Assam Rifles (AR) personnel who died in harness/election duty",
+      "Wards of personnel disabled due to causes attributable to Government service",
+      "Wards of Ex‑CAPFs & AR personnel who are recipients of Gallantry Awards",
+      "Wards/widows of retired and serving CAPFs & AR personnel (below Officer Rank) pursuing a first professional degree programme",
+      "Dependent wards of States/UTs Police personnel who are martyred during Terror/Naxal attacks pursuing a first professional degree programme",
+      "Minimum 60% marks in Minimum Entry Qualification (10+2/Diploma/Graduation or equivalent) for new applicants",
+      "For renewal applicants: minimum 50% marks in each subsequent academic year of the professional course",
+      "Grace period of one year allowed for delayed renewal applications"
+    ],
+    "award_amount": "Rs 3,000 per month for girls (Rs 36,000 per year) and Rs 2,500 per month for boys (Rs 30,000 per year)",
+    "education_level": [
+      "First professional degree (undergraduate level)"
+    ],
+    "eligible_courses": [
+      "Engineering (BE, B.Tech)",
+      "Medicine (MBBS)",
+      "Dental (BDS)",
+      "Veterinary",
+      "BBA",
+      "BCA",
+      "B Pharma",
+      "B.Sc (Nursing, Agriculture, etc.)",
+      "MBA",
+      "MCA",
+      "B.Ed"
+    ],
+    "required_documents": [
+      "Service Certificate issued by the H.O.O. (for serving personnel)",
+      "Attested mark sheet of Minimum Entry Qualification (10+2/Diploma/Graduation)",
+      "PPO/Discharge Certificate/Service Book (mandatory for categories A to F)",
+      "Disability Certificate (mandatory for categories B & D)",
+      "Death Certificate (mandatory for categories A & C)",
+      "Certificate of Gallantry Award (mandatory for category E)",
+      "Bonafide certificate issued by the Institute/College",
+      "Certificate from State Government indicating martyrdom of Police personnel (for States/UTs Police category)",
+      "Aadhaar number (seeded with bank account) or Enrolment Identification (EID) for minors",
+      "For renewal: Service Certificate (if applicable), bonafide certificate from Institute/College, and attested mark sheet of the professional course pursued in the previous academic year"
+    ],
+    "renewal_requirements": [
+      "Must have passed each subsequent academic year of the professional course with at least 50% marks",
+      "Grace period of one year allowed for delayed renewal submission",
+      "Upload required renewal documents (Service Certificate, bonafide certificate, previous year mark sheet, etc.)",
+      "Maintain an Aadhaar‑linked bank account; minors may use parent/guardian Aadhaar",
+      "Continue to meet the Minimum Entry Qualification percentage requirement"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "AICTE - Swanath Scholarship Scheme ( Technical Degree) (Welfare Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_G.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_F.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "eligibility": [
+      "Orphan",
+      "Either or both parents died due to Covid‑19",
+      "Wards of Armed Forces or Central Paramilitary Forces martyred in action (Shaheed)",
+      "Parent suffering from a critical life‑threatening disease or severely disabled (as per RPwD Act 2016)",
+      "Family annual income not exceeding Rs. 8,00,000 (valid income certificate required)",
+      "Currently studying in an AICTE‑approved institution at Degree or Diploma level in regular mode (1st to 4th year)",
+      "Not a recipient of any Central/State Govt. or AICTE‑sponsored scholarship"
+    ],
+    "award_amount": "Rs. 50,000 per annum (maximum 4 years for Degree students, 3 years for Diploma students)",
+    "education_level": [
+      "Degree",
+      "Diploma"
+    ],
+    "eligible_courses": [
+      "All AICTE‑approved degree courses",
+      "All AICTE‑approved diploma courses"
+    ],
+    "required_documents": [
+      "Death certificate of both parents (or orphan certificate issued by Tehsildar/SDM)",
+      "Bonafide certificate issued by the institution",
+      "10+2/equivalent mark sheet (for Degree level applicants)",
+      "10th mark sheet (for both Degree and Diploma level applicants)",
+      "Category certificate (SC/ST/OBC‑NCL)",
+      "Current year income certificate (family income < Rs. 8 lakh)",
+      "Shaheed certificate (for wards of Armed Forces/Central Paramilitary Forces)",
+      "Aadhaar number (mandatory for application)"
+    ],
+    "renewal_requirements": [
+      "Submission of promotion certificate for the next year of study",
+      "Bonafide certificate from the Head of the Institution",
+      "Renewal application submitted through the National Scholarship Portal (NSP) within the stipulated time"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "PM USP Special Scholarship Scheme For Jammu Kashmir And Ladakh (Merit Based Scheme)",
+    "scheme_open_date": "22-10-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/PM_USPY(SSSJKL)SchemeSpecifications.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/PM_USPY(SSSJKL)SchemeSpecifications.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Scholarships Division, Department of Higher Education, Ministry of Education, Government of India",
+    "eligibility": [
+      "Domicile of Union Territories of Jammu & Kashmir or Ladakh",
+      "Passed Class XII examination from JKBOSE or CBSE affiliated schools located in the UTs",
+      "Family annual income of Rs. 8.00 lakh or less",
+      "For lateral entry candidates: must have a Diploma in Engineering from a Polytechnic recognized by the Directorate of Technical Education, UTs of J&K and Ladakh",
+      "Must apply online through the AICTE portal and verify documents at the nearest Facilitation Center",
+      "Admission must be through AICTE counselling under the super‑numerary quota (except management quota)",
+      "Must secure admission in eligible Government or AICTE‑approved institutions as per the scheme criteria"
+    ],
+    "award_amount": "Maintenance allowance of Rs. 1,00,000 per annum (paid in instalments) plus academic fee reimbursement up to Rs. 30,000 for General Degree courses, Rs. 1,25,000 for Professional/Engineering courses, and Rs. 3,00,000 for Medical courses",
+    "education_level": [
+      "Undergraduate (Bachelor's) programs"
+    ],
+    "eligible_courses": [
+      "General Degree Courses (e.g., Arts, Science, Commerce)",
+      "Professional/Engineering courses (B.E./B.Tech)",
+      "B.Sc. Nursing",
+      "B.Pharmacy",
+      "B.Architecture (subject to NATA qualification)",
+      "Hotel Management and Catering Technology (HMCT) Degree",
+      "BA LLB (in National Law Colleges only)",
+      "Medical courses (MBBS/BDS) subject to NEET qualification"
+    ],
+    "required_documents": [
+      "Certificate of domicile of Jammu & Kashmir or Ladakh",
+      "Certificate of Class XII (and Class X) examination",
+      "Polytechnic Diploma Certificate (for lateral entry candidates)",
+      "Income certificate issued by the competent authority of the UT",
+      "Caste certificate (SC/ST/SEBC/EWS) for candidates applying under reserved quota",
+      "Disability certificate (40% or above) for PwD candidates"
+    ],
+    "renewal_requirements": [
+      "Renewal is subject to good conduct and maintenance of attendance as prescribed by the institution",
+      "Student must be promoted to the next class/level; failure to promote twice results in forfeiture of the scholarship",
+      "If unable to appear for the annual examination due to illness or unforeseen circumstances, a medical certificate and other proof must be submitted to the Head of the Institution for renewal",
+      "Scholarship will not be paid twice for the same academic year"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Degree) (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_G.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_F.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "AICTE",
+    "eligibility": [
+      "Girl candidate admitted to the first year of a Degree level course in an AICTE approved institution",
+      "Girl candidate admitted to the second year of a Degree level course through lateral entry in an AICTE approved institution",
+      "Maximum two girl children per family are eligible",
+      "Family income from all sources must not exceed Rs. 8 lakh per annum (valid income certificate issued by State/UT Government required)",
+      "Gap between the year of passing the qualifying examination and admission to the degree course must not exceed two years"
+    ],
+    "award_amount": "Rs. 50,000 per annum",
+    "education_level": [
+      "Degree"
+    ],
+    "eligible_courses": [
+      "Technical Degree courses offered by AICTE approved institutions"
+    ],
+    "required_documents": [
+      "Income certificate issued by State/UT Government",
+      "Passing certificate or marksheet for renewal",
+      "Letter from the Head of the Institution for renewal"
+    ],
+    "renewal_requirements": [
+      "Submission of passing certificate/marksheet for the completed year",
+      "Letter from the Head of the Institution confirming promotion to the next class",
+      "Renewal application submitted through the National Scholarship Portal"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "AICTE - Pragati Scholarship Scheme For Girl Students  ( Technical Diploma) (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2011_G.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2011_F.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "AICTE",
+    "eligibility": [
+      "Girl candidate admitted to the first year of a Diploma level course in an AICTE‑approved institution",
+      "Girl candidate admitted to the second year of a Diploma level course through lateral entry in an AICTE‑approved institution",
+      "Maximum two girl children per family are eligible",
+      "Family income not exceeding Rs. 8 lakh per annum (valid income certificate from State/UT Government required)"
+    ],
+    "award_amount": "Rs. 50,000 per annum (maximum 3 years for first‑year students, maximum 2 years for second‑year students)",
+    "education_level": [
+      "Diploma"
+    ],
+    "eligible_courses": [
+      "Technical Diploma courses"
+    ],
+    "required_documents": [
+      "Income certificate issued by State/UT Government",
+      "Online application form submitted on the National Scholarship Portal (NSP)",
+      "Passing certificate/marksheet (for renewal)",
+      "Letter from the Head of the Institution (for renewal)"
+    ],
+    "renewal_requirements": [
+      "Renewal application submitted through the National Scholarship Portal",
+      "Submission of passing certificate or marksheet for the completed year",
+      "Letter from the Head of the Institution confirming promotion to the next class/level",
+      "Student must be promoted to the next class/level; failure to do so results in forfeiture"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Diploma) (Welfare Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2013_G.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2013_F.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "AICTE",
+    "eligibility": [
+      "Admission to the first year of a Diploma level course or second year through lateral entry in an AICTE approved institution",
+      "Disability of not less than 40%",
+      "Family income not exceeding Rs. 8 lakh per annum (valid income certificate required)",
+      "Gap period between qualifying examination and diploma admission not more than two years",
+      "No receipt of any other financial assistance, scholarship, salary, stipend, or emoluments during the course of study"
+    ],
+    "award_amount": "Rs. 50,000 per annum (maximum 3 years for first‑year entrants, maximum 2 years for second‑year entrants)",
+    "education_level": [
+      "Diploma"
+    ],
+    "eligible_courses": [
+      "Diploma level technical courses"
+    ],
+    "required_documents": [
+      "Income certificate issued by State/UT Government",
+      "Online application submitted on the National Scholarship Portal (NSP)",
+      "Verification of application by the host institution",
+      "For renewal: passing certificate/marksheet and a letter from the Head of the Institution"
+    ],
+    "renewal_requirements": [
+      "Submission of passing certificate/marksheet for the completed year",
+      "Letter from the Head of the Institution",
+      "Renewal application through the National Scholarship Portal",
+      "Student must be promoted to the next class/level",
+      "No receipt of other financial assistance during the study period"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Degree) (Welfare Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2012_G.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2012_F.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "AICTE",
+    "eligibility": [
+      "Admitted to the first year of a Degree level course or second year through lateral entry in an AICTE approved institution",
+      "Disability of not less than 40%",
+      "Family income not more than Rs. 8 lakh per annum (valid income certificate required)",
+      "Gap between qualifying examination and admission not more than two years",
+      "No receipt of any other financial assistance, scholarship, salary, stipend, etc., during the course of study"
+    ],
+    "award_amount": "Rs. 50,000 per annum",
+    "education_level": [
+      "Degree"
+    ],
+    "eligible_courses": [
+      "Any AICTE approved degree program"
+    ],
+    "required_documents": [
+      "Income certificate issued by State/UT Government",
+      "Passing certificate or marksheet (for renewal)",
+      "Letter from the Head of the Institution (for renewal)",
+      "Online application submitted on the National Scholarship Portal"
+    ],
+    "renewal_requirements": [
+      "Submission of passing certificate/marksheet",
+      "Letter from the Head of the Institution",
+      "Renewal application through the National Scholarship Portal",
+      "Student must be promoted to the next class/level"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "AICTE - Swanath Scholarship Scheme (Technical Diploma) (Welfare Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3038_G.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3038_F.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "eligibility": [
+      "Orphan",
+      "Either or both parents died due to Covid‑19",
+      "Wards of Armed Forces or Central Paramilitary Forces martyred in action (Shaheed)",
+      "Parent suffering from a critical life‑threatening disease or severely disabled (as per RPwD Act 2016)",
+      "Family annual income not exceeding Rs. 8,00,000 (valid income certificate required)",
+      "Currently studying in an AICTE‑approved institution at Degree or Diploma level in regular mode (1st to 4th year)",
+      "Not a recipient of any Central/State Govt. or AICTE‑sponsored scholarship"
+    ],
+    "award_amount": "Rs. 50,000 per annum (maximum 4 years for Degree students, 3 years for Diploma students)",
+    "education_level": [
+      "Degree",
+      "Diploma"
+    ],
+    "eligible_courses": [
+      "All AICTE‑approved degree courses",
+      "All AICTE‑approved diploma courses"
+    ],
+    "required_documents": [
+      "Death certificate of both parents (or orphan certificate issued by Tehsildar/SDM)",
+      "Bonafide certificate issued by the institution",
+      "10+2/equivalent mark sheet (for Degree level applicants)",
+      "10th mark sheet (for both Degree and Diploma level applicants)",
+      "Category certificate (SC/ST/OBC‑NCL)",
+      "Current year income certificate (family income < Rs. 8 lakh)",
+      "Shaheed certificate (for wards of Armed Forces/Central Paramilitary Forces)",
+      "Aadhaar number (mandatory for application)"
+    ],
+    "renewal_requirements": [
+      "Submission of promotion certificate for the next year of study",
+      "Bonafide certificate from the Head of the Institution",
+      "Renewal application submitted through the National Scholarship Portal (NSP) within the stipulated time"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "National Scholarship For Post Graduate Studies (Merit Based Scheme)",
+    "scheme_open_date": "16-09-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQ_NSPG.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "University Grants Commission (UGC)",
+    "eligibility": [
+      "Must be applying for the first postgraduate (PG) degree programme only",
+      "Must have already been admitted to the first year of a PG programme in an eligible university/college/institution",
+      "For integrated programmes, scholarship applies only to the PG component",
+      "Applicant must be below 30 years of age on the date of admission to the first semester/year of the PG programme",
+      "Admission must be through regular/full‑time mode (open/distance, part‑time, private modes are not eligible)",
+      "Must be pursuing a recognized PG degree programme leading to a specified PG degree notified by UGC",
+      "Must hold a recognized undergraduate degree from an institution covered under Section 2(f) or Section 3 of the UGC Act, 1956 or authorized to award degrees under section 22(1) of the UGC Act"
+    ],
+    "award_amount": "Rs.15,000 per month for 10 months per year, payable for two years",
+    "education_level": [
+      "Postgraduate"
+    ],
+    "eligible_courses": [
+      "PG degree programmes specified by UGC (as per the UGC Notification on Specification of Degrees, 2014, as amended)",
+      "Arts, Humanities, Social Sciences, Law, Management",
+      "Science, Engineering & Technology, Medical, Technical, Agriculture, Forestry"
+    ],
+    "required_documents": [
+      "Aadhaar‑linked bank account details (bank account number, IFSC code, etc.)",
+      "Certificate issued by competent authority for Caste/Category (if applicable)",
+      "Academic certificates and mark sheets (UG degree, UG marks, XII class marks) for verification",
+      "Any other certificates or affidavits requested by the institution to confirm eligibility"
+    ],
+    "renewal_requirements": [
+      "Maintain good conduct and prescribed attendance during the first year of study",
+      "Successful completion of the first year of the PG programme",
+      "Apply for renewal on the National e‑Scholarship Portal within the stipulated time frame",
+      "No change in course of study or institution during the scholarship period"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "Ishan Uday Special Scholarship Scheme For NER  (Merit Based Scheme)",
+    "scheme_open_date": "16-09-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_ISHAN UDAY_2324.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQ_Ishanuday.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "University Grants Commission (UGC)",
+    "eligibility": [
+      "Passed Class XII or equivalent examination from a recognized board (CBSE, ICSE, NIOS, etc.) within the North Eastern Region (NER)",
+      "Pursuing a recognized undergraduate (UG) degree programme notified by UGC",
+      "Admitted to the first year of the UG programme in an eligible university/college/institution in India",
+      "Scholarship is for the first UG degree only (no prior degree)",
+      "Enrolled in regular/full‑time mode (open/distance/part‑time not eligible)",
+      "Not admitted through management quota",
+      "Parents' annual income below Rs.4.50 lakh",
+      "Holder of a valid domicile certificate of any NER state"
+    ],
+    "award_amount": "Rs.8,000 per month for 10 months (total Rs.80,000 per year)",
+    "education_level": [
+      "Undergraduate"
+    ],
+    "eligible_courses": [
+      "Arts, Humanities and Social Sciences",
+      "Law",
+      "Management",
+      "Science",
+      "Engineering & Technology",
+      "Medical",
+      "Technical",
+      "Agriculture",
+      "Forestry"
+    ],
+    "required_documents": [
+      "Domicile Certificate / Permanent Resident Certificate",
+      "Income Certificate of parents",
+      "Affidavits as required by the institution",
+      "Aadhaar (linked to bank account)",
+      "KYC‑compliant bank account details (bank account number, IFSC, etc.)"
+    ],
+    "renewal_requirements": [
+      "Good conduct and maintenance of prescribed attendance",
+      "Successful completion of the previous year of study",
+      "Application for renewal on the National e‑Scholarship Portal (NSP) each year",
+      "No change in course of study or institution",
+      "Promotion to the next class/level; failure to promote results in forfeiture"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Post Matric (Welfare Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/MinistryofLabour_FAQ.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Ministry of Labour and Employment, Government of India",
+    "eligibility": [
+      "Students enrolled in B.Ed",
+      "Students enrolled in B.Sc",
+      "Students enrolled in B.A",
+      "Students enrolled in B.Com",
+      "Students enrolled in M.A",
+      "Students enrolled in MBA",
+      "Students enrolled in LLB",
+      "Students enrolled in MBBS",
+      "Students enrolled in B.Tech",
+      "Students enrolled in B.Pharma"
+    ],
+    "award_amount": 25000,
+    "education_level": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "eligible_courses": [
+      "B.Ed",
+      "B.Sc",
+      "B.A",
+      "B.Com",
+      "M.A",
+      "MBA",
+      "LLB",
+      "MBBS",
+      "B.Tech",
+      "B.Pharma"
+    ],
+    "required_documents": [],
+    "renewal_requirements": [],
+    "missing_fields": [
+      "required_documents",
+      "renewal_requirements"
+    ],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Pre Matric (Welfare Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/MinistryofLabour_FAQ.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Ministry of Labour and Employment, Government of India",
+    "eligibility": [],
+    "award_amount": 25000,
+    "education_level": [],
+    "eligible_courses": [],
+    "required_documents": [],
+    "renewal_requirements": [],
+    "missing_fields": [
+      "eligibility",
+      "education_level",
+      "eligible_courses",
+      "required_documents",
+      "renewal_requirements"
+    ],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "PM YASASVI Central Sector  Scheme Of Top Class Education In Schools For OBC, EBC And DNT Students (Merit Based Scheme)",
+    "scheme_open_date": "22-10-2026",
+    "student_application_deadline": "30-11-2026",
+    "defective_application_deadline": "15-12-2026",
+    "institute_verification_deadline": "15-12-2026",
+    "officer_verification_deadline": "31-12-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/3061_G.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Ministry of Social Justice and Empowerment",
+    "eligibility": [
+      "Student belongs to OBC, EBC, or DNT category",
+      "Household annual income less than Rs. 2.5 lakh",
+      "Studying in a designated Top Class School (public, aided, or private)",
+      "Enrolled in classes 9 to 12",
+      "Must have a bank account",
+      "Cannot be receiving assistance under any other government scheme for the same items"
+    ],
+    "award_amount": "Up to Rs. 75,000 per annum for classes 9-10 and Rs. 1,25,000 per annum for classes 11-12 (paid in one instalment before 15 August each year)",
+    "education_level": [
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "eligible_courses": [],
+    "required_documents": [
+      "Marks certificate of the final exam of the previous class",
+      "Bank account details"
+    ],
+    "renewal_requirements": [],
+    "missing_fields": [
+      "eligible_courses",
+      "renewal_requirements"
+    ],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "PM YASASVI Central Sector  Scheme Of Top Class Education In College For OBC, EBC And DNT Students (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/ApprovedmodifieddraftofTopClassCollege.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Ministry of Social Justice and Empowerment (Government of India)",
+    "eligibility": [
+      "OBC, EBC or DNT category student",
+      "Total annual family income up to Rs. 2.50 lakh",
+      "Secured admission in a full‑time prescribed course in a notified institution",
+      "Not more than two siblings in the same family receiving the benefit",
+      "Submission of an affidavit confirming the student is not the third sibling",
+      "Satisfactory academic performance and promotion to the next semester/class each year",
+      "Application for renewal each academic year"
+    ],
+    "award_amount": "Up to Rs. 2.00 lakh per annum for tuition & non‑refundable fees (private sector institutions) or Rs. 3.72 lakh per annum for private sector flying clubs, plus Rs. 3,000 per month living allowance, Rs. 5,000 per annum for books & stationery, and a one‑time computer/laptop assistance up to Rs. 45,000.",
+    "education_level": [
+      "Post‑Class XII (undergraduate, postgraduate and professional courses)"
+    ],
+    "eligible_courses": [
+      "Any full‑time prescribed course in institutions notified by the Ministry (including engineering, management, medical, commercial pilot training, type‑rating courses, etc.)"
+    ],
+    "required_documents": [
+      "Income certificate",
+      "Caste certificate",
+      "Bank account details",
+      "Admission rank",
+      "Fee details",
+      "Affidavit confirming not the third sibling",
+      "Upload of the above documents on the National Scholarship Portal (NSP)"
+    ],
+    "renewal_requirements": [
+      "Annual application for scholarship renewal on NSP",
+      "Institutional verification of promotion to the next class/semester",
+      "Maintenance of satisfactory academic performance",
+      "Continued compliance with income and caste eligibility"
+    ],
+    "missing_fields": [],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "National Renewable Energy Fellowship Scheme (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/null",
+    "faq_url": "https://scholarships.gov.in/null",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "404 Client Error: Not Found for url: https://scholarships.gov.in/null"
+  },
+  {
+    "scholarship_name": "Stipend Scheme For Under Graduate And Post Graduate Studies In Indian Statistical Institute-Kolkata (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/STIPEND_STATICAL_GUIDLLINES.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Indian Statistical Institute",
+    "eligibility": [
+      "Admission to the specified programme (UG, PG, Diploma, M.Tech, M.Stat, M.Math, MS(QE), MS(LIS), MS(QMS))",
+      "Continuation in the programme for at least two months after admission",
+      "No receipt of another government scholarship (otherwise stipend is discontinued)",
+      "Academic performance: composite score in any course ≥ 35% (45% for core courses in M.Tech (QR&OR) and M.S. (QMS)); average composite score ≥ 45% (full stipend if ≥ 60%) and limited number of courses below 45% as defined",
+      "Overall attendance in all courses ≥ 75% each semester",
+      "Satisfactory conduct as determined by the Dean of Studies/Associate Dean/Students’ Academic Affairs In‑charge",
+      "Not a repeating student (unless an appeal for financial support is approved)",
+      "For M.Tech (CS) specifically: registration for at least four courses in the first semester and minimum 45% score in required number of courses with average ≥ 60% in best courses as per semester schedule"
+    ],
+    "award_amount": null,
+    "education_level": [
+      "Undergraduate",
+      "Postgraduate",
+      "Diploma",
+      "M.Tech",
+      "M.Stat",
+      "M.Math",
+      "MS(QE)",
+      "MS(LIS)",
+      "MS(QMS)"
+    ],
+    "eligible_courses": [],
+    "required_documents": [],
+    "renewal_requirements": [
+      "Maintain required academic performance thresholds each semester",
+      "Maintain overall attendance of at least 75% each semester",
+      "Maintain satisfactory conduct throughout the programme",
+      "Do not obtain any other government scholarship during the period of stipend receipt",
+      "For M.Tech (CS), meet the specific course‑registration and score criteria for each semester"
+    ],
+    "missing_fields": [
+      "award_amount",
+      "eligible_courses",
+      "required_documents"
+    ],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "Icar National Talent Scholarship(Nts-Ug) (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/GuidelinesforICAR_NTS_Scholarship_3103_3104.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQsforICAR_NTS-UG_3103.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "provider": "Indian Council of Agricultural Research (ICAR)",
+    "eligibility": [
+      "Takes up studies in approved courses and admission in an Agricultural University located outside the student's state of domicile",
+      "Maintains merit and good conduct certified by the Head of the College/University/Institute",
+      "Does not remain absent without prior permission",
+      "Does not participate in any agitation or strike during the scholarship period",
+      "Studies on a full‑time basis and does not take up any job, even part‑time",
+      "Does not accept any other scholarship during the undergraduate study",
+      "Does not leave the course of study within one month of admission",
+      "Does not subsequently change the initially allocated subject of study",
+      "Maintains a minimum CGPA of 10.00 (or 6.50 for SC/ST) at the end of the first year",
+      "Clears all papers in each semester and appears in regular examinations",
+      "Is not dropped by the institution for gross indiscipline"
+    ],
+    "award_amount": "Rs.2,000 per month for Undergraduate students; Rs.3,000 per month for Postgraduate students",
+    "education_level": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "eligible_courses": [
+      "Approved agriculture and related discipline courses"
+    ],
+    "required_documents": [],
+    "renewal_requirements": [
+      "Maintain minimum CGPA of 10.00 (6.50 for SC/ST) at the end of the first year",
+      "Clear all papers in each semester",
+      "Appear in regular examinations",
+      "Maintain good conduct as certified by the institution",
+      "No participation in strikes or agitation"
+    ],
+    "missing_fields": [
+      "required_documents"
+    ],
+    "extraction_status": "ok"
+  },
+  {
+    "scholarship_name": "Icar Post Graduate Scholarship(Pgs) (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/RevisedGuidelinesforICAR_JRF_SRFandPG_Scholarship_3105_3106.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQsforICAR _PGS_Scholarship_3105.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199421, Requested 4388. Please try again in 27m25.488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Icar National Talent Scholarship(Nts-Pg) (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/GuidelinesforICAR_NTS_Scholarship_3103_3104.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQsforICAR_NTS-PG_3104.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199349, Requested 2960. Please try again in 16m37.488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Icar Junior Research Fellowships(Jrf) And Senior Research Fellowships(Srf) (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/RevisedGuidelinesforICAR_JRF_SRFandPG_Scholarship_3105_3106.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQsforICAR_JRF(PGS)_SRF(PGS)forPh.Dstudents_3106.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199264, Requested 4902. Please try again in 29m59.712s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Central Sector Scholarship Of Top Class Education For SC Students (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018_FAQ.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199183, Requested 5199. Please try again in 31m33.024s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Free Coaching For Scs OBCs And Beneficiaries Of PM Cares Children Scheme (Welfare Based Scheme)",
+    "scheme_open_date": "03-08-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/guid_3108.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/faq_3108.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199107, Requested 4897. Please try again in 28m49.728s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Pre Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
+    "scheme_open_date": "25-07-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199029, Requested 5911. Please try again in 35m34.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Post Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
+    "scheme_open_date": "25-07-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198951, Requested 5397. Please try again in 31m18.336s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Scholarship For Top Class Education For Students With Disabilities (Welfare Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198869, Requested 4861. Please try again in 26m51.36s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "National Means Cum Merit Scholarship (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/NMMSSGuidelines.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/NMSSS_FAQ.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198787, Requested 4283. Please try again in 22m6.24s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "PM-USP – Central Sector Scheme Of Scholarship For College And University Students (CSSS) (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/FAQ_DOHE_CSSS.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198713, Requested 2358. Please try again in 7m42.672s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "National Fellowship And Scholarship For Higher Education Of ST Students - Scholarship (Formally Top Class Education For Schedule Tribe Students)  (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/tribalfellowshipguideline.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/tribalfellowshipfaq.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198638, Requested 4517. Please try again in 22m42.96s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Financial Support To The Students Of NER  For Higher Professional Courses(NEC Merit Scholarship) (Merit Based Scheme)",
+    "scheme_open_date": "15-07-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/NEC_1234_G.pdf",
+    "faq_url": "https://scholarships.gov.in/public/schemeGuidelines/NEC_1234_F.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198564, Requested 3888. Please try again in 17m39.263999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "scholarship_name": "Prime Minister'S Scholarship Scheme For Ministry Of Railways (Merit Based Scheme)",
+    "scheme_open_date": "01-06-2026",
+    "student_application_deadline": "31-10-2026",
+    "defective_application_deadline": "15-11-2026",
+    "institute_verification_deadline": "15-11-2026",
+    "officer_verification_deadline": "30-11-2026",
+    "specifications_url": "https://scholarships.gov.in/public/schemeGuidelines/MORB_GL.pdf",
+    "faq_url": "https://scholarships.gov.in/public/FAQ/FAQs_1198.pdf",
+    "source_url": "https://scholarships.gov.in/All-Scholarships",
+    "extraction_status": "failed",
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kyp0726ef3yvsm5dsjfxhggz` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198486, Requested 5093. Please try again in 25m46.128s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  }
+]
